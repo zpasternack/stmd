@@ -31,3 +31,14 @@ scanners.c
 bstrlib.txt
 stmd.dSYM/*
 stmd
+
+# Mac OS Stuff
+.DS_Store
+.Trashes
+*.swp
+*.lock
+*~.nib
+
+# Xcode Stuff
+xcuserdata
+*.xccheckout
